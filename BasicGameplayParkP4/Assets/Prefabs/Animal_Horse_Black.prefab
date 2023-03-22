@@ -1981,7 +1981,7 @@ GameObject:
   - component: {fileID: 847946308173798570}
   - component: {fileID: 8470548272015684834}
   - component: {fileID: 59237025819147208}
-  - component: {fileID: 3895674593460630615}
+  - component: {fileID: -719475853704174670}
   m_Layer: 0
   m_Name: Animal_Horse_Black
   m_TagString: Animal
@@ -2042,7 +2042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cae3210930021e64085e3e4e0fa3e2cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 15
 --- !u!114 &8470548272015684834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2068,7 +2068,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 30.282972, y: 42.87392, z: 46.706963}
   m_Center: {x: -0.33825517, y: 16.803026, z: 3.713684}
---- !u!114 &3895674593460630615
+--- !u!114 &-719475853704174670
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
